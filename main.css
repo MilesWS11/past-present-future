@@ -1,0 +1,24 @@
+body {
+    background-color: #4da6ff;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+
+h1 {
+    color: #ffffff
+    text-align: center;
+    font-size: 61px;
+    font-family: 'Just Me Again Down Here', cursive;
+}
+
+p {
+     font-size: 21px;
+     color: #009900;
+     font-family: 'Just Me Again Down Here', cursive;
+
+}
+
+img {
+    max-width: 100%
